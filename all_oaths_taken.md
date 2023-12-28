@@ -1,6 +1,11 @@
-Add your oath to the bottom and do a pull request
+---
 
-odin1lyyeycypsgtehyq55jwxr8rz2amfwlk2cr6fxq
+## My Response to the Oki Doki Oath
+
+Oki Doki! I wholeheartedly pledge my support to DokiOath. I acknowledge that I will come to Doki's aid whenever he needs it. I understand the importance of staying true to the oath, and I'm committed to not becoming an OathBreaker. May the blessings of the dragon in the Year of the Dragon be with us all...Oki Doki!
+
+## Addresses that have taken Oaths
+```odin1lyyeycypsgtehyq55jwxr8rz2amfwlk2cr6fxq
 odin1rkkx8rh500szy67xg8j0nemu0vtzvutjgl7v63
 odin1wx0en6pmrr4492kxurla4aluujwtn4almhwm0l
 odin1qmurzzwv8pwp8c28jz27c58hgyhe9zxzcejvke
@@ -31,3 +36,14 @@ odin1847d74cxnsm6maan3vlen27k8h3f8p0gsww6ux
 odin16jdluumcej8gl4hwzvmcl7zkz92rxj8eyfzwf5
 odin1n9yenan0nuxrqfy85pyrg5qatuwcnrawtunvq0
 odin1yn4hf9yhnewlc78z5wtaj9fgnsp0mphftfzkhg
+```
+
+
+
+---
+
+
+## Pull Request
+
+I have added my Odin address to the list. Please review and accept my pull request.
+
