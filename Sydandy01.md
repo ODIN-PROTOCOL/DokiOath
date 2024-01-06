@@ -1,5 +1,5 @@
 # Taking the DokiOath
-
+odin1q8yh8sm6hzvdsm63nfuh895xnrs6rhpfljqscd
 Thank you for choosing to take the DokiOath! By doing so, you are making a symbolic commitment to support Doki in times of need. This repository is where you can officially take the oath by submitting your Odin address.
 
 ## How to Take the DokiOath
