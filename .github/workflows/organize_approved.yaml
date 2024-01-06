@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Run script
-        run: node .github/scripts/organize_approved.sh
+        run: sh .github/scripts/organize_approved.sh
   
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
