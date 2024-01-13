@@ -1,4 +1,4 @@
-﻿# DokiOath
+# DokiOath
 
 Welcome to the DokiOath repository, initiated by the whimsical Doki himself and brought to life by his servants, the Odin team.
 
@@ -8,7 +8,7 @@ Welcome to the DokiOath repository, initiated by the whimsical Doki himself and 
 
 ## How to Participate
 
-1. **Commit to DokiOath by Jan 10th, 2024:** By doing so, you're taking an open oath to support Doki.
+1. **Commit to DokiOath by Jan 16th, 2024:** By doing so, you're taking an open oath to support Doki.
 2. **Eligibility:** For active contributors to any open blockchain networks like Cosmos SDK chains, Solana, Ethereum, Polygon, Polkadot (DOT), or Cardano.
 3. **Token Distribution:** Tokens will be sent directly to the Odin addresses of eligible developers on the claim day. DokiOath takers don't have to claim. Make sure you include ODIN address in your commit.
 
@@ -21,7 +21,7 @@ Welcome to the DokiOath repository, initiated by the whimsical Doki himself and 
 
 ## Claim Process
 
-- **Deadline:** Jan 10th, 2024.
+- **Deadline:** Jan 16th, 2024.
 - **Distribution:** Rewards to Odin addresses with a promise to keep the oath.
 
 ## Contribution Guidelines
